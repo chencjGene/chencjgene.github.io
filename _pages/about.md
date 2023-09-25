@@ -213,8 +213,8 @@ IEEE Transactions on Visualization and Computer Graphics, 2019 Vol. 25(1): 235-2
   - PacificVis (Journal Track, 2023)
   - IEEE VIS (2023)
   - ChinaVis (2022, 2023)
-- **Reviewer**, AIIM (2022), IEEE TVCG (2022, 2023), IUI (2022), IEEE VIS (2021, 2022), JoVI (2020), ChinaVis (2018, 2019)
-- **Teach assistant**, class Information Visualization and Visual Analytics (2018, 2019, 2020, 2021) 
+- **Reviewer** AIIM (2022), IEEE TVCG (2022, 2023), IUI (2022), IEEE VIS (2021, 2022), JoVI (2020), ChinaVis (2018, 2019)
+- **Teach assistant** Information Visualization and Visual Analytics (2018, 2019, 2020, 2021) 
 
 # 💬 Invited Talks
 - *2023.05*, Guest talks @GAMES \| [\[video\]](https://games-cn.org/games-webinar-20230518-277/). 
