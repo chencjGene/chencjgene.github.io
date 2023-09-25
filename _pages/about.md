@@ -41,6 +41,7 @@ My research interest focuses on visual analytics and machine learning, especiall
 </div>
 </div>
 
+<!-- ----------------------------------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VIS 2023</div><img src='images/CA-Grid.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -53,6 +54,7 @@ Yuxing Zhou*, Weikai Yang*, Jiashu Chen, **Changjian Chen**, Zhiyang Shen, Xiaon
 </div>
 </div>
 
+<!-- ----------------------------------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VIS 2023</div><img src='images/videopro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -60,6 +62,60 @@ Yuxing Zhou*, Weikai Yang*, Jiashu Chen, **Changjian Chen**, Zhiyang Shen, Xiaon
 [VideoPro: A Visual Analytics Approach for Interactive Video Programming](https://arxiv.org/abs/2308.00401)
 
 Jianben He, Xingbo Wang, Kam Kwai Wong, Xijie Huang, **Changjian Chen**, Zixin Chen, Fengjie Wang, Min Zhu, Huamin Qu. IEEE VIS (to be appear).
+
+</div>
+</div>
+
+<!-- ----------------------------------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVCG 2022</div><img src='images/MutualDetector.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Better Caption Supervision for Object Detection](https://ieeexplore.ieee.org/document/9664269/)
+
+**Changjian Chen**, Jing Wu, Xiaohan Wang, Shouxing Xiang, Song-Hai Zhang, Qifeng Tang, Shixia Liu. IEEE Transactions on Visualization and Computer Graphics, 2022 Vol. 28(4): 1941-1954.
+
+[Video](https://youtu.be/_Ksp9stN6bw) \| [Code](https://github.com/thu-vis/MutualDetector)
+
+</div>
+</div>
+
+<!-- ----------------------------------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVCG 2021</div><img src='images/DataLinker.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Interactive Graph Construction for Graph-Based Semi-Supervised Learning](https://ieeexplore.ieee.org/document/9444198/)
+
+**Changjian Chen**, Zhaowei Wang, Jing Wu, Xiting Wang, Lan-Zhe Guo, Yu-Feng Li, Shixia Liu. IEEE Transactions on Visualization and Computer Graphics, 2021 Vol. 27(9): 3701-3716.
+
+[Video](https://youtu.be/LLDzHn9qyc4) \| [Code](https://github.com/thu-vis/DataLinker)
+
+</div>
+</div>
+
+<!-- ----------------------------------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVCG 2021</div><img src='images/OoDAnalyzer.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OoDAnalyzer: Interactive Analysis of Out-of-Distribution Samples](https://ieeexplore.ieee.org/document/9444198/)
+
+**Changjian Chen\***, Jun Yuan*, Yafeng Lu, Yang Liu, Hang Su, Songtao Yuan, and Shixia Liu. (* = equal contribution). IEEE Transactions on Visualization and Computer Graphics, 2021 Vol. 27(7): 3335-3349.
+
+[Video](https://youtu.be/13G4RCOoiAU) \| [Code](https://github.com/thu-vis/OoDAnalyzer) \| [Slides](https://docs.google.com/presentation/d/1CoJEfQ7-y2QqpeQVFtTvFJh5Ea08x6N2/edit?usp=sharing&ouid=105845032781922238860&rtpof=true&sd=true)
+
+</div>
+</div>
+
+<!-- ----------------------------------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVM 2021</div><img src='images/ML_survey.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Survey of Visual Analytics Techniques for Machine Learning](https://link.springer.com/article/10.1007/s41095-020-0191-7)
+
+Jun Yuan, **Changjian Chen**, Weikai Yang, Mengchen Liu, Jiazhi Xia, Shixia Liu. Computational Visual Media, 2021, vol. 7(1): 3-36.
 
 </div>
 </div>
