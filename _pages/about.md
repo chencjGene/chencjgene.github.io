@@ -30,18 +30,6 @@ My research interest focuses on visual analytics and machine learning, especiall
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VIS 2023</div><img src='images/unievaluator.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -49,11 +37,22 @@ My research interest focuses on visual analytics and machine learning, especiall
 
 **Changjian Chen**, Yukai Guo, Fengyuan Tian, Shilong Liu, Weikai Yang, Zhaowei Wang, Jing Wu, Hang Su, Hanspeter Pfister, Shixia Liu. IEEE VIS (to be appear).
 
-[video](http://uni-evaluator.thuvis.org/) [code](http://uni-evaluator.thuvis.org/)
+[Video](http://uni-evaluator.thuvis.org/) \| [Code](http://uni-evaluator.thuvis.org/)
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VIS 2023</div><img src='images/CA-Grid.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Cluster Aware Grid Layout](https://arxiv.org/abs/2308.03651)
+
+Yuxing Zhou*, Weikai Yang*, Jiashu Chen, **Changjian Chen**, Zhiyang Shen, Xiaonan Luo, Lingyun Yu, Shixia Liu.
+
+[Video](https://repo.vicayang.cc/Cluster_Aware_Grid_Layout/video.html) \| [Code](https://github.com/thu-vis/Cluster-Aware-Grid-Layout)
+</div>
+</div>
+
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
 - *2022.06* Outstanding Graduates, School of Software, Tsinghua University.
