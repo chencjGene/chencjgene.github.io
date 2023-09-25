@@ -35,7 +35,9 @@ My research interest focuses on visual analytics and machine learning, especiall
 
 [A Unified Interactive Model Evaluation for Classification, Object Detection, and Instance Segmentation in Computer Vision](https://arxiv.org/abs/2308.05168)
 
-**Changjian Chen**, Yukai Guo, Fengyuan Tian, Shilong Liu, Weikai Yang, Zhaowei Wang, Jing Wu, Hang Su, Hanspeter Pfister, Shixia Liu. IEEE VIS (to be appear).
+**Changjian Chen**, Yukai Guo, Fengyuan Tian, Shilong Liu, Weikai Yang, Zhaowei Wang, Jing Wu, Hang Su, Hanspeter Pfister, Shixia Liu. 
+
+IEEE VIS (to be appear).
 
 [Video](http://uni-evaluator.thuvis.org/) \| [Code](http://uni-evaluator.thuvis.org/)
 </div>
@@ -48,7 +50,9 @@ My research interest focuses on visual analytics and machine learning, especiall
 
 [Cluster Aware Grid Layout](https://arxiv.org/abs/2308.03651)
 
-Yuxing Zhou*, Weikai Yang*, Jiashu Chen, **Changjian Chen**, Zhiyang Shen, Xiaonan Luo, Lingyun Yu, Shixia Liu. IEEE VIS (to be appear).
+Yuxing Zhou*, Weikai Yang*, Jiashu Chen, **Changjian Chen**, Zhiyang Shen, Xiaonan Luo, Lingyun Yu, Shixia Liu. 
+
+IEEE VIS (to be appear).
 
 [Video](https://repo.vicayang.cc/Cluster_Aware_Grid_Layout/video.html) \| [Code](https://github.com/thu-vis/Cluster-Aware-Grid-Layout)
 </div>
@@ -61,7 +65,9 @@ Yuxing Zhou*, Weikai Yang*, Jiashu Chen, **Changjian Chen**, Zhiyang Shen, Xiaon
 
 [VideoPro: A Visual Analytics Approach for Interactive Video Programming](https://arxiv.org/abs/2308.00401)
 
-Jianben He, Xingbo Wang, Kam Kwai Wong, Xijie Huang, **Changjian Chen**, Zixin Chen, Fengjie Wang, Min Zhu, Huamin Qu. IEEE VIS (to be appear).
+Jianben He, Xingbo Wang, Kam Kwai Wong, Xijie Huang, **Changjian Chen**, Zixin Chen, Fengjie Wang, Min Zhu, Huamin Qu. 
+
+IEEE VIS (to be appear).
 
 </div>
 </div>
@@ -73,7 +79,9 @@ Jianben He, Xingbo Wang, Kam Kwai Wong, Xijie Huang, **Changjian Chen**, Zixin C
 
 [基于可视分析的训练数据质量提升研究](http://shixialiu.com/publications/dataqualitycadcg/paper.pdf)
 
-杨维铠, **陈长建**, 朱江宁, 李磊, 刘鹏, 刘世霞. CCF CAD/CG (to be appear). 
+杨维铠, **陈长建**, 朱江宁, 李磊, 刘鹏, 刘世霞. 
+
+CCF CAD/CG (to be appear). 
 
 
 </div>
@@ -86,7 +94,9 @@ Jianben He, Xingbo Wang, Kam Kwai Wong, Xijie Huang, **Changjian Chen**, Zixin C
 
 [Towards Better Caption Supervision for Object Detection](https://ieeexplore.ieee.org/document/9664269/)
 
-**Changjian Chen**, Jing Wu, Xiaohan Wang, Shouxing Xiang, Song-Hai Zhang, Qifeng Tang, Shixia Liu. IEEE Transactions on Visualization and Computer Graphics, 2022 Vol. 28(4): 1941-1954.
+**Changjian Chen**, Jing Wu, Xiaohan Wang, Shouxing Xiang, Song-Hai Zhang, Qifeng Tang, Shixia Liu. 
+
+IEEE Transactions on Visualization and Computer Graphics, 2022 Vol. 28(4): 1941-1954.
 
 [Video](https://youtu.be/_Ksp9stN6bw) \| [Code](https://github.com/thu-vis/MutualDetector)
 
@@ -100,7 +110,9 @@ Jianben He, Xingbo Wang, Kam Kwai Wong, Xijie Huang, **Changjian Chen**, Zixin C
 
 [Interactive Graph Construction for Graph-Based Semi-Supervised Learning](https://ieeexplore.ieee.org/document/9444198/)
 
-**Changjian Chen**, Zhaowei Wang, Jing Wu, Xiting Wang, Lan-Zhe Guo, Yu-Feng Li, Shixia Liu. IEEE Transactions on Visualization and Computer Graphics, 2021 Vol. 27(9): 3701-3716.
+**Changjian Chen**, Zhaowei Wang, Jing Wu, Xiting Wang, Lan-Zhe Guo, Yu-Feng Li, Shixia Liu. 
+
+IEEE Transactions on Visualization and Computer Graphics, 2021 Vol. 27(9): 3701-3716.
 
 [Video](https://youtu.be/LLDzHn9qyc4) \| [Code](https://github.com/thu-vis/DataLinker)
 
@@ -112,9 +124,11 @@ Jianben He, Xingbo Wang, Kam Kwai Wong, Xijie Huang, **Changjian Chen**, Zixin C
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVCG 2021</div><img src='images/OoDAnalyzer.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[OoDAnalyzer: Interactive Analysis of Out-of-Distribution Samples](https://ieeexplore.ieee.org/document/9444198/)
+[OoDAnalyzer: Interactive Analysis of Out-of-Distribution Samples](https://ieeexplore.ieee.org/document/8994105)
 
-**Changjian Chen\***, Jun Yuan\*, Yafeng Lu, Yang Liu, Hang Su, Songtao Yuan, and Shixia Liu. (* = equal contribution). IEEE Transactions on Visualization and Computer Graphics, 2021 Vol. 27(7): 3335-3349.
+**Changjian Chen\***, Jun Yuan\*, Yafeng Lu, Yang Liu, Hang Su, Songtao Yuan, and Shixia Liu. (* = equal contribution). 
+
+IEEE Transactions on Visualization and Computer Graphics, 2021 Vol. 27(7): 3335-3349.
 
 [Video](https://youtu.be/13G4RCOoiAU) \| [Code](https://github.com/thu-vis/OoDAnalyzer) \| [Slides](https://docs.google.com/presentation/d/1CoJEfQ7-y2QqpeQVFtTvFJh5Ea08x6N2/edit?usp=sharing&ouid=105845032781922238860&rtpof=true&sd=true)
 
@@ -128,7 +142,9 @@ Jianben He, Xingbo Wang, Kam Kwai Wong, Xijie Huang, **Changjian Chen**, Zixin C
 
 [A Survey of Visual Analytics Techniques for Machine Learning](https://link.springer.com/article/10.1007/s41095-020-0191-7)
 
-Jun Yuan, **Changjian Chen**, Weikai Yang, Mengchen Liu, Jiazhi Xia, Shixia Liu. Computational Visual Media, 2021, vol. 7(1): 3-36.
+Jun Yuan, **Changjian Chen**, Weikai Yang, Mengchen Liu, Jiazhi Xia, Shixia Liu. 
+
+Computational Visual Media, 2021, vol. 7(1): 3-36.
 
 </div>
 </div>
@@ -140,7 +156,9 @@ Jun Yuan, **Changjian Chen**, Weikai Yang, Mengchen Liu, Jiazhi Xia, Shixia Liu.
 
 [An Interactive Feature Selection Method Based on Learning-from-Crowds](http://engine.scichina.com/doi/10.1360/SSI-2019-0208)
 
-**Changjian Chen**, Liu Jiang, Na Lei, Shixia Liu. SCIENTIA SINICA Informationis, 2020 vol. 50(6): 794-812.
+**Changjian Chen**, Liu Jiang, Na Lei, Shixia Liu. 
+
+SCIENTIA SINICA Informationis, 2020 vol. 50(6): 794-812.
 
 </div>
 </div>
@@ -152,7 +170,9 @@ Jun Yuan, **Changjian Chen**, Weikai Yang, Mengchen Liu, Jiazhi Xia, Shixia Liu.
 
 [Recent Research Advances on Interactive Machine Learning](https://link.springer.com/article/10.1007/s12650-018-0531-1)
 
-Liu Jiang, Shixia Liu, **Changjian Chen**. Journal of Visualization, 2019 Vol. 22: 401-417.
+Liu Jiang, Shixia Liu, **Changjian Chen**. 
+
+Journal of Visualization, 2019 Vol. 22: 401-417.
 
 </div>
 </div>
@@ -164,7 +184,9 @@ Liu Jiang, Shixia Liu, **Changjian Chen**. Journal of Visualization, 2019 Vol. 2
 
 [An Interactive Method to Improve Crowdsourced Annotations](https://ieeexplore.ieee.org/document/8440116/)
 
-Shixia Liu, **Changjian Chen**, Yafeng Lu, Fangxin Ouyang, Bin Wang. IEEE Transactions on Visualization and Computer Graphics, 2019 Vol. 25(1): 235-245.
+Shixia Liu, **Changjian Chen**, Yafeng Lu, Fangxin Ouyang, Bin Wang. 
+
+IEEE Transactions on Visualization and Computer Graphics, 2019 Vol. 25(1): 235-245.
 
 [Video](https://youtu.be/gg9PC1366ss) 
 </div>
@@ -187,12 +209,12 @@ Shixia Liu, **Changjian Chen**, Yafeng Lu, Fangxin Ouyang, Bin Wang. IEEE Transa
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Services
-- *PC member*
+- **PC member**
   - PacificVis (Journal Track, 2023)
   - IEEE VIS (2023)
   - ChinaVis (2022, 2023). 
-- *Reviewer*, AIIM (2022), IEEE TVCG (2022, 2023), IUI (2022), IEEE VIS (2021, 2022), JoVI (2020), ChinaVis (2018, 2019).
-- *Teach assistant*, class Information Visualization and Visual Analytics (2018, 2019, 2020, 2021) 
+- **Reviewer**, AIIM (2022), IEEE TVCG (2022, 2023), IUI (2022), IEEE VIS (2021, 2022), JoVI (2020), ChinaVis (2018, 2019).
+- **Teach assistant**, class Information Visualization and Visual Analytics (2018, 2019, 2020, 2021) 
 
 # 💬 Invited Talks
 - *2023.05*, Guest talks @GAMES \| [\[video\]](https://games-cn.org/games-webinar-20230518-277/). 
