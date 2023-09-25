@@ -41,14 +41,26 @@ My research interest focuses on visual analytics and machine learning, especiall
 </div>
 </div>
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VIS 2023</div><img src='images/CA-Grid.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Cluster Aware Grid Layout](https://arxiv.org/abs/2308.03651)
 
-Yuxing Zhou*, Weikai Yang*, Jiashu Chen, **Changjian Chen**, Zhiyang Shen, Xiaonan Luo, Lingyun Yu, Shixia Liu.
+Yuxing Zhou*, Weikai Yang*, Jiashu Chen, **Changjian Chen**, Zhiyang Shen, Xiaonan Luo, Lingyun Yu, Shixia Liu. IEEE VIS (to be appear).
 
 [Video](https://repo.vicayang.cc/Cluster_Aware_Grid_Layout/video.html) \| [Code](https://github.com/thu-vis/Cluster-Aware-Grid-Layout)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VIS 2023</div><img src='images/videopro.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[VideoPro: A Visual Analytics Approach for Interactive Video Programming](https://arxiv.org/abs/2308.00401)
+
+Jianben He, Xingbo Wang, Kam Kwai Wong, Xijie Huang, **Changjian Chen**, Zixin Chen, Fengjie Wang, Min Zhu, Huamin Qu. IEEE VIS (to be appear).
+
 </div>
 </div>
 
@@ -68,7 +80,10 @@ Yuxing Zhou*, Weikai Yang*, Jiashu Chen, **Changjian Chen**, Zhiyang Shen, Xiaon
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Services
-- *PC member*, PacificVis (Journal Track, 2023), IEEE VIS (2023), ChinaVis (2022, 2023). 
+- *PC member*
+  - PacificVis (Journal Track, 2023)
+  - IEEE VIS (2023)
+  - ChinaVis (2022, 2023). 
 - *Reviewer*, AIIM (2022), IEEE TVCG (2022, 2023), IUI (2022), IEEE VIS (2021, 2022), JoVI (2020), ChinaVis (2018, 2019).
 - *Teach assistant*, class Information Visualization and Visual Analytics (2018, 2019, 2020, 2021) 
 
