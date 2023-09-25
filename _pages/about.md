@@ -68,6 +68,19 @@ Jianben He, Xingbo Wang, Kam Kwai Wong, Xijie Huang, **Changjian Chen**, Zixin C
 
 <!-- ----------------------------------------------------------------------------------------- -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAD/CG 2023</div><img src='images/data_survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[基于可视分析的训练数据质量提升研究](http://shixialiu.com/publications/dataqualitycadcg/paper.pdf)
+
+杨维铠, **陈长建**, 朱江宁, 李磊, 刘鹏, 刘世霞. CCF CAD/CG (to be appear). 
+
+
+</div>
+</div>
+
+<!-- ----------------------------------------------------------------------------------------- -->
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVCG 2022</div><img src='images/MutualDetector.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -101,7 +114,7 @@ Jianben He, Xingbo Wang, Kam Kwai Wong, Xijie Huang, **Changjian Chen**, Zixin C
 
 [OoDAnalyzer: Interactive Analysis of Out-of-Distribution Samples](https://ieeexplore.ieee.org/document/9444198/)
 
-**Changjian Chen\***, Jun Yuan*, Yafeng Lu, Yang Liu, Hang Su, Songtao Yuan, and Shixia Liu. (* = equal contribution). IEEE Transactions on Visualization and Computer Graphics, 2021 Vol. 27(7): 3335-3349.
+**Changjian Chen\***, Jun Yuan\*, Yafeng Lu, Yang Liu, Hang Su, Songtao Yuan, and Shixia Liu. (* = equal contribution). IEEE Transactions on Visualization and Computer Graphics, 2021 Vol. 27(7): 3335-3349.
 
 [Video](https://youtu.be/13G4RCOoiAU) \| [Code](https://github.com/thu-vis/OoDAnalyzer) \| [Slides](https://docs.google.com/presentation/d/1CoJEfQ7-y2QqpeQVFtTvFJh5Ea08x6N2/edit?usp=sharing&ouid=105845032781922238860&rtpof=true&sd=true)
 
@@ -119,6 +132,44 @@ Jun Yuan, **Changjian Chen**, Weikai Yang, Mengchen Liu, Jiazhi Xia, Shixia Liu.
 
 </div>
 </div>
+
+<!-- ----------------------------------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCIENTIA 2020</div><img src='images/feature_selection.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An Interactive Feature Selection Method Based on Learning-from-Crowds](http://engine.scichina.com/doi/10.1360/SSI-2019-0208)
+
+**Changjian Chen**, Liu Jiang, Na Lei, Shixia Liu. SCIENTIA SINICA Informationis, 2020 vol. 50(6): 794-812.
+
+</div>
+</div>
+
+<!-- ----------------------------------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JoV 2019</div><img src='images/Recent_research.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Recent Research Advances on Interactive Machine Learning](https://link.springer.com/article/10.1007/s12650-018-0531-1)
+
+Liu Jiang, Shixia Liu, **Changjian Chen**. Journal of Visualization, 2019 Vol. 22: 401-417.
+
+</div>
+</div>
+
+<!-- ----------------------------------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVCG 2019</div><img src='images/LabelInspect.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An Interactive Method to Improve Crowdsourced Annotations](https://ieeexplore.ieee.org/document/8440116/)
+
+Shixia Liu, **Changjian Chen**, Yafeng Lu, Fangxin Ouyang, Bin Wang. IEEE Transactions on Visualization and Computer Graphics, 2019 Vol. 25(1): 235-245.
+
+[Video](https://youtu.be/gg9PC1366ss) 
+</div>
+</div>
+
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
