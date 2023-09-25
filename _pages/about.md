@@ -179,7 +179,7 @@ Journal of Visualization, 2019 Vol. 22: 401-417.
 
 <!-- ----------------------------------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVCG 2019</div><img src='images/LabelInspect.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE VIS 2018</div><img src='images/LabelInspect.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An Interactive Method to Improve Crowdsourced Annotations](https://ieeexplore.ieee.org/document/8440116/)
@@ -212,8 +212,8 @@ IEEE Transactions on Visualization and Computer Graphics, 2019 Vol. 25(1): 235-2
 - **PC member**
   - PacificVis (Journal Track, 2023)
   - IEEE VIS (2023)
-  - ChinaVis (2022, 2023). 
-- **Reviewer**, AIIM (2022), IEEE TVCG (2022, 2023), IUI (2022), IEEE VIS (2021, 2022), JoVI (2020), ChinaVis (2018, 2019).
+  - ChinaVis (2022, 2023)
+- **Reviewer**, AIIM (2022), IEEE TVCG (2022, 2023), IUI (2022), IEEE VIS (2021, 2022), JoVI (2020), ChinaVis (2018, 2019)
 - **Teach assistant**, class Information Visualization and Visual Analytics (2018, 2019, 2020, 2021) 
 
 # 💬 Invited Talks
