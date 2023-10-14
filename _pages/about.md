@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Ph.D. degree from <a href="http://www.tsinghua.edu.cn/publish/then/index.html">Tsinghua University</a>, advised by Prof. <a href="http://shixialiu.com/">Shixia Liu</a>. 
+I am an assistant processor in Hunan University. I received my Ph.D. degree from <a href="http://www.tsinghua.edu.cn/publish/then/index.html">Tsinghua University</a>, advised by Prof. <a href="http://shixialiu.com/">Shixia Liu</a>. 
 Before that, I reveived my B.S. in Electronic Engineering from <a href="https://www.ustc.edu.cn/">University of Science and Technology of China</a>.
 My research interest focuses on visual analytics and machine learning, especially visual analysis methods to improve training data quality.
 
@@ -26,6 +26,7 @@ My research interest focuses on visual analytics and machine learning, especiall
 
 
 # 🔥 News
+- *2023.10*: &nbsp;🎉🎉 I gave a gust talk at HKUST VIS lab. 
 - *2023.08*: &nbsp;🎉🎉 Three papers are accepted by IEEE VIS. 
 
 # 📝 Publications 
@@ -217,7 +218,8 @@ IEEE Transactions on Visualization and Computer Graphics, 2019 Vol. 25(1): 235-2
 - **Teach assistant** Information Visualization and Visual Analytics (2018, 2019, 2020, 2021) 
 
 # 💬 Invited Talks
-- *2023.05*, Guest talks @GAMES \| [\[video\]](https://games-cn.org/games-webinar-20230518-277/). 
+- *2023.10*, Guest talk @HKUST VIS lab. 
+- *2023.05*, Guest talk @GAMES \| [\[video\]](https://games-cn.org/games-webinar-20230518-277/). 
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
